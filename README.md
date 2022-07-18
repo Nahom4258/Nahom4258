@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nahom4258
 - 👀 I’m interested in programming, football, video games and books.
-- 🌱 I have grounded skill in HTML, CSS, JavaScript, PHP, NodeJS, SQL and NoSQL databases & Flutter
+- 🌱 I have grounded skill in HTML, CSS, JavaScript, PHP, NodeJS, React & Flutter
 - 💞️ I’m looking to collaborate on any projects that could enhance my knowledge on programming.
 
 <!---
