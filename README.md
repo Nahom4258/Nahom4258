@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nahom4258
 - 👀 I’m interested in programming, football, video games and books.
-- 🌱 I have grounded skill in NodeJS, React and .NET Core
+- 🌱 I have experience in Node.js, React, Next.js, React Native and .NET Core
 - 💞️ I’m looking to collaborate on any projects that could enhance my knowledge of programming.
 
 <!---
